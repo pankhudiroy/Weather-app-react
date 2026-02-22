@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌦️ Weather App (React + OpenWeather API)
 
 A simple yet functional weather application built with React. It fetches real‑time weather data from the OpenWeather API and displays temperature, conditions, and location details in a clean, responsive UI.
@@ -46,4 +46,4 @@ Visit http://localhost:5173/  (or the port shown in your terminal).
 =======
 # Weather-app-react
 A simple yet functional weather application built with React. It fetches real‑time weather data from the Open Weather API and displays temperature, conditions, and location details in a clean, responsive UI.
->>>>>>> d5662f21a3c5d4b8f8103c9f1eefa2946469c193
+
